@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello there 👋
+
+I'm Oscar, an electrical engineer based in Switzerland.
+
+
+**Fun Facts:**
+
+- I love coffee
+- On a sunny day I like to go on a ride on my roadbike
+- On a rainy day I like to lift weights
 
 <!--
 **oklaesi/oklaesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
